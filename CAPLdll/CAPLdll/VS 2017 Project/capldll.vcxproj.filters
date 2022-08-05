@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Sources\capldll.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="..\Sources\capldll.def" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="json">
+      <UniqueIdentifier>{d626ee3e-482a-40e8-83d4-6e02df2084b9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\autolink.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\config.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\features.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\forwards.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\json.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\reader.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\value.h">
+      <Filter>json</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Zhao Hui%27s task\V2X\CAPLdll\json\writer.h">
+      <Filter>json</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

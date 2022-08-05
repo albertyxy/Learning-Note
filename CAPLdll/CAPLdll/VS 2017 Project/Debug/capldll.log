@@ -1,0 +1,109 @@
+﻿  capldll.cpp
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(607): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(621): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(635): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(649): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(663): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(677): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(691): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(705): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(719): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(733): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(747): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(762): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(776): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(790): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(804): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(818): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(832): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(846): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(860): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(874): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(888): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(902): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(916): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(930): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(944): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(958): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(972): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(986): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1000): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1014): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1028): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1042): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1056): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1070): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1084): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1108): warning C4715: “appGetLatiude”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1124): warning C4715: “appGetLongtitude”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1156): warning C4715: “appGetSpeed”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1140): warning C4715: “appGetTransmissionState”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1172): warning C4715: “appGetHeading”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1204): warning C4715: “appGetLongAcceleration”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1188): warning C4715: “appGetLatAcceleration”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1220): warning C4715: “appGetBasicVehicleClass”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1252): warning C4715: “appGetEmergencyExtensionsResponseType”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1236): warning C4715: “appGetEvent”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1268): warning C4715: “appGetEmergencyExtensionsLightBarInUse”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1285): warning C4715: “appGetId”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1301): warning C4715: “appGetSecMark”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1317): warning C4715: “appGetElevation”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1333): warning C4715: “appGetSemiMajor”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1349): warning C4715: “appGetSemiMinor”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1365): warning C4715: “appGetOrientation”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1381): warning C4715: “appGetConfidencePosition”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1397): warning C4715: “appGetConfidenceElevation”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1413): warning C4715: “appGetWheelAngle”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1445): warning C4715: “appGetYawAcceleration”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1429): warning C4715: “appGetVertAcceleration”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1461): warning C4715: “appGetBrakePadel”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1477): warning C4715: “appGetWheelBrakes”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1509): warning C4715: “appGetABS”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1493): warning C4715: “appGetTraction”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1525): warning C4715: “appGetSCS”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1541): warning C4715: “appGetBrakeBoost”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1557): warning C4715: “appGetAuxBrakes”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1573): warning C4715: “appGetVehicleWidth”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1589): warning C4715: “appGetVehicleLenth”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1605): warning C4715: “appGetVehicleHeight”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1621): warning C4715: “appGetVehicleFuelType”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1653): warning C4715: “appGetSirenUse”: 不是所有的控件路径都返回值
+d:\albertyao\zhao hui's task\v2x\capldll\sources\capldll.cpp(1637): warning C4715: “appGetLights”: 不是所有的控件路径都返回值
+json_vc71_libmtd.lib(json_value.obj) : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+    正在创建库 .\Debug/capldll.lib 和对象 .\Debug/capldll.exp
+  capldll.vcxproj -> D:\AlbertYao\Zhao Hui's task\V2X\CAPLdll\VS 2017 Project\.\Debug\capldll.dll
